@@ -104,5 +104,8 @@ footer p :hover{
 
 }
 
-
+body p :hover {
+    transform: scale(1,2,grey,rgb(243, 22, 22));
+    background-image: linear-gradient(to right);
+}
 
