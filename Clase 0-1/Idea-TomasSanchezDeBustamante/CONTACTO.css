@@ -1,0 +1,98 @@
+body {
+    background-color: rgba(0, 0, 0, 0.87);
+    text-align: center;
+    background-image: url(images/Back3.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+header{  
+    height: auto;
+    width: auto;
+    text-align: center;
+    
+}
+
+nav {
+    background-color: rgba(0, 0, 0, 0.301);
+    text-align: center;
+    padding-top: 14px;
+    padding-bottom: 14px;
+}
+
+main {
+    height: 400px;
+    width: auto;
+   padding: auto;
+    text-align: center;
+    color: rgb(255, 255, 255);
+padding-left: 300px;
+padding-right: 300px;
+} 
+form {
+    display: grid;
+    grid-template-columns: repeat(1, 200px) ;
+    justify-content: space-around;
+    align-items: center;
+    height: 2rem;
+    padding: 2rem;
+    outline-color: invert;
+   align-items: center;
+}
+textarea {
+    resize: none;
+}
+main section {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+    margin-left: auto;
+margin-right: auto;
+}
+table {
+margin-left: auto;
+margin-right: auto;
+    font-size: 20px;
+    text-align: center;
+}
+footer {
+    background-color: rgba(0, 0, 0, 0.685);
+    height: 100px;
+}
+
+
+h1 {
+font-size: 84px;
+color: blanchedalmond;
+font-family: 'Times New Roman', Times, serif;
+
+}
+
+p {
+    font-size: 25px;
+    color: blanchedalmond;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+a {
+    font-size: 25px;
+    color: rgb(255, 255, 255);
+text-decoration: underline rgb(146, 21, 204);
+font-family: 'Times New Roman', Times, serif;
+}
+
+nav a {
+    text-decoration: none;
+    font-size: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+footer p {
+    text-align: center;
+    padding-bottom: 25px;
+    padding-top: 25px;
+    font-family: 'Times New Roman', Times, serif;
+}
